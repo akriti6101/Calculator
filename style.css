@@ -1,0 +1,77 @@
+.outer
+{
+    position:absolute;
+    top:70px;width:300px;
+    height:400px;
+    left:430px;
+    background-color:#393232;
+    border-radius: 32px;
+
+}.text
+{
+    position:absolute;
+    top:80px;
+    left:20px;
+    width:300px;
+    height:40px;
+}
+.hid
+{
+    position:absolute;
+    top:40px;width:250px;
+    height:30px;
+    text-align: right;
+    left:20px;
+    opacity:0.08;
+}
+.input{
+    width:250px;
+    height:40px;
+    border-radius:32px;
+    text-align: right;
+    font-size:100%;
+
+}
+.one{
+    position:absolute;
+    top:150px;
+    height:40px;
+    left:20px;
+}
+.two{
+    position:absolute;
+    top:200px;
+    height:40px;
+    left:20px;
+}
+.three
+{
+    position:absolute;
+    top:250px;
+    height:40px;
+    left:20px;
+}
+
+.btn1,.btn2,.btn3,.btn4
+{
+    background-color: #810034;
+    height:33px;
+}
+.four
+{
+    position:absolute;
+    top:300px;
+    height:40px;
+    left:20px;
+}
+td{
+    margin-left: 30px;
+
+}
+button{
+    cursor:pointer;
+    margin-left: 10px;
+    width:50px;
+    height:30px;
+    border-radius: 50%;
+}
